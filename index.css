@@ -90,6 +90,7 @@ body{
 .extbtn{
     display : none;
     height : 9vh;
+    min-width: 110px;
     width: 9vw;
     border : 1px solid blue;
     border-radius: 10px;
